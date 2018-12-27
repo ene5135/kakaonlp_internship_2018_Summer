@@ -1,7 +1,8 @@
 # WSD
 Word Sense Disambiguation
   
-실험에 대한 전반적인 설명은 [발표자료](https://github.com/kakaonlp-internship2018/wsd/blob/ene5135-for-presentation/jeff_WSD_0829.pdf)를 참고하세요  
+실험에 대한 전반적인 설명은 [발표자료](https://github.com/ene5135/kakaonlp_internship_2018_Summer/blob/ene5135-for-presentation/final_ppt.pptx)
+와 [보고서](https://github.com/ene5135/kakaonlp_internship_2018_Summer/blob/ene5135-for-presentation/final_report.pdf)를 참고하세요  
 프로젝트 과정 전반은 [Wiki](https://github.com/kakaonlp-internship2018/wsd/wiki)를 참고하세요  
 
 ## 코퍼스 전처리
